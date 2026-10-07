@@ -1,0 +1,68 @@
+.one{
+    padding: 20px;
+    border: 4px solid black;
+    border-radius: 10px;
+    border-color:white;
+    background-color: aquamarine;
+    height: 600px;
+    width: 300px;
+}
+button:hover{
+    color: white;
+    text-decoration: blue;
+    background-color: black;
+    
+
+}
+button{
+color: blue;
+padding-left: 40px;
+padding-right: 40px;
+ 
+
+}
+.a:active{
+    color: brown;
+}
+ .container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    
+    
+ }
+ legend{
+    color: red;
+    text-align: center;
+ }
+ .two{
+      padding-bottom: 40px;
+      padding-top: 0px;
+      padding-left: 20px;
+      padding-right: 20px;
+    border: 4px solid;
+    border-radius: 10px;
+    border-color: gold;
+    background-color: aquamarine;
+    height: 600px;
+    width: 300px;
+ }
+ .d{
+    position: relative;
+    top: 0%;
+    transform: translate(-50%, -50%);
+    color: red;
+    left: 25%;
+    font-style:normal;
+    font-size: large;
+
+ }
+ .a{
+    margin-top: 67px;
+ }
+ .aa{
+    margin-top: 67px;
+
+ }
+ .aaa{
+    margin-top: 30px;
+ }
